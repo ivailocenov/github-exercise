@@ -1,3 +1,11 @@
+Favorite foods
+
 1. Chicken
 2. Pork
 3. Beef
+
+Favorite movies
+
+1. Matrix
+2. Game of Thrones
+3. Home Alone
